@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/histograms.json",
+    "sha256": "f8e6176aa459dcf89cf09db26373154440e68446de6e39c51bb36c88a661f212",
+    "size_bytes": 664
+  },
+  {
+    "path": "fixtures/rollups.json",
+    "sha256": "85f29bfc5357b9124401064b1e62ccf5dd674f55426db5448537d9112b84d9d9",
+    "size_bytes": 280
+  }
+]

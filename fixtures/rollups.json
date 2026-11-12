@@ -1,0 +1,24 @@
+{
+  "parents": {
+    "hand": [
+      "A",
+      "B"
+    ],
+    "all": [
+      "A",
+      "B",
+      "tail"
+    ]
+  },
+  "requested_edges": [
+    0,
+    10,
+    20
+  ],
+  "quantiles": [
+    0.5,
+    0.99
+  ],
+  "quantile_rule": "ceil(p*N)_1_based",
+  "empty_domain": "undefined"
+}
